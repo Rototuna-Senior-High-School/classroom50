@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "EXDTE 2026",
+  "short_name": "exdte-2026",
+  "term": "2026",
+  "org": "Rototuna-Senior-High-School",
+  "team": {
+    "id": 18312818,
+    "slug": "classroom50-exdte-2026"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18312819,
+      "slug": "classroom50-exdte-2026-instructor"
+    },
+    "ta": {
+      "id": 18312820,
+      "slug": "classroom50-exdte-2026-ta"
+    }
+  }
+}
